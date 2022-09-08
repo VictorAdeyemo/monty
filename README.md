@@ -52,6 +52,6 @@ julien@ubuntu:~/monty$
 ```monty filename```
 
 ## AUTHORS<br/>
-Victor Adeyemo<br/>
+Victor Adedayo Adeyemo<br/>
 || Azeez Olarewaju Lawal 
 
